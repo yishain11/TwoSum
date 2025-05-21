@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 internal class Program
 {
@@ -19,11 +20,17 @@ internal class Program
         If no 2 matching numbers were found - return an empty int array.
 
      🧪 Your code will be tested automatically when you run the program.
+
+        Add comments and explenations your your code!
+
+        When you are done - screenshot the results and send it to your instructor, alongside the Program.cs file.
+
+        No GPT or Copilot are allowed.
     */
 
     public static int[] TwoSum(int[] nums, int target)
     {
-        throw new NotImplementedException(); // replace with your implementation
+        // your code here
     }
 
     static void Main(string[] args)
