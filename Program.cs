@@ -30,7 +30,8 @@ internal class Program
 
     public static int[] TwoSum(int[] nums, int target)
     {
-        // your code here
+        // your code here - you can change the variavble you return, just make sure the type is correct.
+        return nums;
     }
 
     static void Main(string[] args)
