@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 internal class Program
 {
-    // 🧠 Task: Two Sum
+    // Task: Two Sum
     /*
      Given an array of integers and a target sum, return the indices of the two numbers such that they add up to the target.
 
